@@ -1,0 +1,11 @@
+
+   =========================== Style ==========================
+	* navbar background-color: #081621;
+	* navbar text color: #222222;
+	* product name color : #3749bb;
+	* view more link color: #e5330b;
+	* specification display features background-color: #3749bb;
+	
+
+   =========================== Font Style =========================
+	* font family : arial or sans-serif
